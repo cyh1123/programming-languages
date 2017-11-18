@@ -124,5 +124,5 @@ fun first_match v ps = SOME (first_answer (fn x => match(v, x)) ps)
 
 
 (*challenge problem*)
-fun typecheck_patterns (x:(string*string*typ) list, ps) =0
+
   
